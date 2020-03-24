@@ -32,3 +32,7 @@ pip install git+https://github.com/sn4k3/FakeRPi
 python contoh.py
 python3 contoh.py
 ```
+
+## Tugas
+
+buat skema dan kode Raspberry Pi yang terhubung dengan 3 buah Blinking LED 
