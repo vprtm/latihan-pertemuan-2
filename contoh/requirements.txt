@@ -1,0 +1,2 @@
+fake-rpi==0.2
+pkg-resources==0.0.0
