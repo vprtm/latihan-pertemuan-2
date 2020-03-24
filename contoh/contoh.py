@@ -2,8 +2,9 @@
 # encoding: utf-8
 
 import time
-import importlib.util
+
 try:
+    import importlib.util
     importlib.util.find_spec('RPi.GPIO')
     import RPi.GPIO as GPIO
 except ImportError:
